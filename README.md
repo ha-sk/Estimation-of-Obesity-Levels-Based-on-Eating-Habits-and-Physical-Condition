@@ -6,7 +6,7 @@ This project aims to develop a machine learning model to predict obesity levels 
 
 ## Data Source
 
-The dataset for this project was sourced from [provide the source or link here if public]. It includes multiple features related to lifestyle, dietary habits, and physical measurements, allowing for a comprehensive analysis of factors influencing obesity.
+The dataset for this project includes multiple features related to lifestyle, dietary habits, and physical measurements, allowing for a comprehensive analysis of factors influencing obesity.
 
 ## Technologies Used
 
